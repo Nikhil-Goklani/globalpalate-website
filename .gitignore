@@ -3,3 +3,4 @@ out/
 .dev-kv.json
 __pycache__/
 *.pyc
+dist-hostinger/
