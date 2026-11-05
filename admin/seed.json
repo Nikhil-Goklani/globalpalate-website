@@ -1,0 +1,1308 @@
+{
+ "version": 1,
+ "updated": "2026-11-05",
+ "settings": {
+  "phone": "+1 323 784 9803",
+  "phone2": "+1 323 990 7540",
+  "email": "sales@globalpalate.co",
+  "hours": "Monday-Friday, 9 AM-5 PM PT",
+  "response": "within 2-3 hours",
+  "moq": "100kg",
+  "lead_time": "In stock items ship within 2-3 business days",
+  "parent": "Agronic Food Pvt. Ltd.",
+  "booking_url": "",
+  "show": "We are coming to Supply Side Global, Mandalay Bay, Las Vegas on 28th and 29th October 2026. Book a meeting now!",
+  "ga4": "",
+  "turnstile": "",
+  "gsc_verification": "",
+  "warehouse": {
+   "name": "Compton, California",
+   "street": "3040 E. Ana Street",
+   "city": "Compton",
+   "state": "CA",
+   "zip": "90221"
+  },
+  "office": {
+   "name": "Edison, New Jersey",
+   "street": "21 Meridian Rd",
+   "city": "Edison",
+   "state": "NJ",
+   "zip": "08820"
+  },
+  "same_as": [],
+  "robots_extra": ""
+ },
+ "company": {
+  "Years in business": "Operating since 2025. Parent Company in this business from last 17 years.",
+  "Payment terms": "Prepayment",
+  "Default price basis": "FOB Warehouse",
+  "Credit application": "Credit is available on part of the payment, subject to trade references.",
+  "ETO / irradiation statement": "Steam sterilized at origin",
+  "Customer references": "References on Request"
+ },
+ "certs": [
+  {
+   "name": "USDA Organic (NOP)",
+   "applies": "All",
+   "holder": "Global Palate",
+   "htype": "Global Palate",
+   "certifier": "[CCOF] CCOF Certification Services, LLC",
+   "number": "5561008527",
+   "expiry": "2027-01-01",
+   "url": "https://organic.ams.usda.gov/integrity/CP/OPP?cid=15&nopid=5561008527&ret=Home&retName=Home"
+  },
+  {
+   "name": "NOP organic import certificate",
+   "applies": "All",
+   "holder": "Global Palate",
+   "htype": "Global Palate",
+   "certifier": "[CCOF] CCOF Certification Services, LLC",
+   "number": "5561008527",
+   "expiry": "2027-01-01",
+   "url": "https://organic.ams.usda.gov/integrity/CP/OPP?cid=15&nopid=5561008527&ret=Home&retName=Home"
+  },
+  {
+   "name": "FDA food facility registration",
+   "applies": "All",
+   "holder": "Global Palate",
+   "htype": "Global Palate",
+   "certifier": "US Food and Drug Administration",
+   "number": "",
+   "expiry": "",
+   "url": ""
+  },
+  {
+   "name": "Kosher",
+   "applies": "All",
+   "holder": "Agronic Food Pvt. Ltd.",
+   "htype": "Origin processor",
+   "certifier": "",
+   "number": "",
+   "expiry": "",
+   "url": ""
+  },
+  {
+   "name": "Halal",
+   "applies": "All",
+   "holder": "Agronic Food Pvt. Ltd.",
+   "htype": "Origin processor",
+   "certifier": "",
+   "number": "",
+   "expiry": "",
+   "url": ""
+  },
+  {
+   "name": "Non-GMO",
+   "applies": "All",
+   "holder": "Agronic Food Pvt. Ltd.",
+   "htype": "Origin processor",
+   "certifier": "",
+   "number": "",
+   "expiry": "",
+   "url": ""
+  },
+  {
+   "name": "FSSC 22000",
+   "applies": "All",
+   "holder": "Agronic Food Pvt. Ltd.",
+   "htype": "Origin processor",
+   "certifier": "",
+   "number": "",
+   "expiry": "",
+   "url": ""
+  },
+  {
+   "name": "HACCP",
+   "applies": "All",
+   "holder": "Agronic Food Pvt. Ltd.",
+   "htype": "Origin processor",
+   "certifier": "",
+   "number": "",
+   "expiry": "",
+   "url": ""
+  },
+  {
+   "name": "GMP",
+   "applies": "All",
+   "holder": "Agronic Food Pvt. Ltd.",
+   "htype": "Origin processor",
+   "certifier": "",
+   "number": "",
+   "expiry": "",
+   "url": ""
+  },
+  {
+   "name": "Gluten free",
+   "applies": "All",
+   "holder": "Agronic Food Pvt. Ltd.",
+   "htype": "Origin processor",
+   "certifier": "",
+   "number": "",
+   "expiry": "",
+   "url": ""
+  }
+ ],
+ "transit": [],
+ "pages": {},
+ "redirects": [],
+ "products": [
+  {
+   "key": "turmeric",
+   "slug": "organic-turmeric-powder",
+   "status": "published",
+   "updated": "2026-11-05",
+   "name": "Organic Turmeric Powder",
+   "short": "Turmeric Powder",
+   "common": "turmeric",
+   "botanical": "Curcuma longa",
+   "part": "Rhizome",
+   "tag": "Spice · Root",
+   "unit_mode": "kg",
+   "box": "100 kg",
+   "title": "Organic Turmeric Powder in Bulk | Global Palate",
+   "meta": "USDA organic turmeric powder (Curcuma longa) in bulk, held in our Compton, CA warehouse. Fine powder, 2–3% curcumin, COA with every batch. Request a quote.",
+   "h1": "Bulk Organic Turmeric Powder, shipped from U.S. stock",
+   "lead": "Organic turmeric powder held in our Compton, California warehouse, so supplement, food and beverage manufacturers can order without waiting on a container from origin. Every batch ships with a Certificate of Analysis.",
+   "card": "2–3% curcumin. Our highest-volume SKU for supplements, functional beverages and spice blends.",
+   "desc": [
+    "Made from organic Curcuma longa rhizomes, our turmeric powder has a vivid golden color and the characteristic earthy flavor of the spice. It is a fine powder used across supplements, functional beverages, spice blends and food manufacturing.",
+    "Each batch is tested and documented, and ships from stock in Compton, California. Ask for the batch COA before you commit to an order."
+   ],
+   "specs": [
+    [
+     "Botanical name",
+     "Curcuma longa"
+    ],
+    [
+     "Plant part",
+     "Rhizome"
+    ],
+    [
+     "Form",
+     "Fine powder"
+    ],
+    [
+     "Curcumin",
+     "2–3%"
+    ],
+    [
+     "Moisture",
+     "Less than 10%"
+    ],
+    [
+     "Country of origin",
+     "India"
+    ],
+    [
+     "Shelf life",
+     "24 months"
+    ],
+    [
+     "Storage",
+     "Cool, dry place, sealed container"
+    ]
+   ],
+   "purity": [
+    "Free from adulteration and additives",
+    "Non-GMO verified",
+    "Free from irradiation",
+    "Gluten free"
+   ],
+   "ttk_sub": "Color, flavor and documented curcumin content in one ingredient.",
+   "ttk": [
+    [
+     "USDA Certified Organic",
+     "Grown and processed to organic standards."
+    ],
+    [
+     "Non-GMO",
+     "Verified non-GMO ingredient."
+    ],
+    [
+     "Vibrant color and aroma",
+     "Golden hue and earthy flavor."
+    ],
+    [
+     "Gluten free",
+     "Tested batch by batch."
+    ],
+    [
+     "2–3% curcumin",
+     "Stated on the product specification."
+    ],
+    [
+     "Versatile",
+     "Supplements, beverages, spice blends, food."
+    ]
+   ],
+   "faq": [
+    [
+     "What is the curcumin content?",
+     "Our turmeric powder carries 2–3% curcumin. The exact result for each batch is on its Certificate of Analysis."
+    ]
+   ],
+   "plant": "rhizome (root) of the Curcuma longa plant",
+   "look": "a fine golden-yellow powder",
+   "alt": "Ceramic bowl of organic turmeric powder",
+   "image": {
+    "src": "static"
+   },
+   "seo": {
+    "canonical": "",
+    "noindex": false,
+    "og_title": "",
+    "og_desc": "",
+    "focus_keyword": ""
+   },
+   "commercial": {
+    "price_from": "5.95",
+    "price_to": "7",
+    "price_unit": "kg",
+    "price_basis": "Ex-Warehouse",
+    "tiers": "100 kg: $7.00\n300 kg: $6.10\n500 kg: $6.00\n1MT: $5.95",
+    "in_stock": "Yes",
+    "qty": "5925",
+    "ships_within": "2-3 Business Days",
+    "lot": "2025",
+    "pack_format": "25 kg Kraft Paper Bags",
+    "net_weight": "25",
+    "packs_per_pallet": "40",
+    "pallet_net": "1 MT",
+    "origin_region": "India",
+    "supplier": "Agronic Food Pvt. Ltd.",
+    "last_audit": "2026"
+   },
+   "tests": [
+    {
+     "param": "Particle size / mesh",
+     "limit": "98% passing -0.425 mm (±5%)",
+     "method": "Through Sieve Analysis",
+     "result": "99%"
+    },
+    {
+     "param": "Loss on drying (moisture)",
+     "limit": "Max. 10%",
+     "method": "IS : 1797",
+     "result": "5.4%"
+    },
+    {
+     "param": "Total ash",
+     "limit": "Max. 8%",
+     "method": "API (Part-1)",
+     "result": "7.6%"
+    },
+    {
+     "param": "Marker content (curcumin / withanolides / other)",
+     "limit": "Total curcumin: Min. 2%",
+     "method": "HPLC",
+     "result": "2.7%"
+    },
+    {
+     "param": "Lead (Pb)",
+     "limit": "Max. 0.5 ppm",
+     "method": "AOAC method 2015.1",
+     "result": "BLQ (LOQ 0.05 ppm)"
+    },
+    {
+     "param": "Cadmium (Cd)",
+     "limit": "Max. 1 ppm",
+     "method": "AOAC method 2015.1",
+     "result": "BLQ (LOQ 0.05 ppm)"
+    },
+    {
+     "param": "Arsenic (As)",
+     "limit": "Max. 1 ppm",
+     "method": "AOAC method 2015.1",
+     "result": "BLQ (LOQ 0.05 ppm)"
+    },
+    {
+     "param": "Mercury (Hg)",
+     "limit": "Max. 0.1 ppm",
+     "method": "AOAC method 2015.1",
+     "result": "BLQ (LOQ 0.05 ppm)"
+    },
+    {
+     "param": "Total plate count",
+     "limit": "Max. 10⁵ CFU/g",
+     "method": "ISO 4833-1:2013",
+     "result": "1.9 × 10² CFU/g"
+    },
+    {
+     "param": "Yeast & mold",
+     "limit": "Max. 10³ CFU/g",
+     "method": "ISO 21527-2:2008",
+     "result": "<10 CFU/g"
+    },
+    {
+     "param": "E. coli",
+     "limit": "Absent",
+     "method": "ISO 16649:2001",
+     "result": "Absent"
+    },
+    {
+     "param": "Salmonella",
+     "limit": "Absent in 25 g",
+     "method": "ISO 6579-1:2017",
+     "result": "Absent"
+    },
+    {
+     "param": "Pesticide residue (program and limits)",
+     "limit": "Free from pesticides and chemical residue.",
+     "method": "",
+     "result": ""
+    },
+    {
+     "param": "Steam sterilization / kill step",
+     "limit": "Steam sterilised",
+     "method": "",
+     "result": ""
+    },
+    {
+     "param": "Allergen statement",
+     "limit": "Allergen free",
+     "method": "",
+     "result": "Allergen free"
+    },
+    {
+     "param": "Shelf life",
+     "limit": "24 months",
+     "method": "",
+     "result": ""
+    }
+   ]
+  },
+  {
+   "key": "ashwagandha",
+   "slug": "organic-ashwagandha-root-powder",
+   "status": "published",
+   "updated": "2026-11-05",
+   "name": "Organic Ashwagandha Root Powder",
+   "short": "Ashwagandha Root Powder",
+   "common": "ashwagandha",
+   "botanical": "Withania somnifera",
+   "part": "Root",
+   "tag": "Adaptogen · Root",
+   "unit_mode": "kg",
+   "box": "100 kg",
+   "title": "Organic Ashwagandha Root Powder in Bulk | Global Palate",
+   "meta": "Organic ashwagandha root powder (Withania somnifera), 0.3% withanolides by HPLC, in bulk from our Compton, CA warehouse. COA with every batch. Request a quote.",
+   "h1": "Organic ashwagandha root powder with verified withanolides",
+   "lead": "A root-only powder with verified withanolide content, for supplement and traditional-formulation manufacturers who need consistent batch-to-batch documentation.",
+   "card": "Root powder with 0.3% withanolides (HPLC), with documentation on request.",
+   "desc": [
+    "Our organic ashwagandha powder is milled from the root of Withania somnifera, with no stem or leaf material, and carries 0.3% withanolides verified by HPLC. It is supplied as a botanical ingredient for dietary supplement, beverage and traditional-formulation manufacturers.",
+    "Finished-product claims are the responsibility of the manufacturer. We supply the ingredient with its documentation."
+   ],
+   "specs": [
+    [
+     "Botanical name",
+     "Withania somnifera"
+    ],
+    [
+     "Plant part",
+     "Root"
+    ],
+    [
+     "Withanolides",
+     "0.3% (HPLC)"
+    ],
+    [
+     "Country of origin",
+     "India"
+    ],
+    [
+     "Shelf life",
+     "24 months"
+    ],
+    [
+     "Storage",
+     "Cool, dry, dark place; airtight container"
+    ]
+   ],
+   "purity": [
+    "Free from adulteration and additives",
+    "Non-GMO verified",
+    "Free from irradiation",
+    "No synthetic compounds"
+   ],
+   "ttk_sub": "A root-only botanical, documented for formulators.",
+   "ttk": [
+    [
+     "USDA Certified Organic",
+     "Grown and processed to organic standards."
+    ],
+    [
+     "Non-GMO",
+     "Verified non-GMO ingredient."
+    ],
+    [
+     "Root only",
+     "No stem or leaf material."
+    ],
+    [
+     "Gluten free",
+     "Tested batch by batch."
+    ],
+    [
+     "0.3% withanolides",
+     "Verified by HPLC."
+    ],
+    [
+     "Formulation ready",
+     "Supplements, beverages, traditional blends."
+    ]
+   ],
+   "faq": [
+    [
+     "How are withanolides verified?",
+     "Withanolide content is verified by HPLC and reported at 0.3%. The result for each batch is on its Certificate of Analysis."
+    ]
+   ],
+   "plant": "root of the Withania somnifera plant",
+   "look": "a fine, light-brown root powder",
+   "alt": "Ceramic bowl of organic ashwagandha root powder",
+   "image": {
+    "src": "static"
+   },
+   "seo": {
+    "canonical": "",
+    "noindex": false,
+    "og_title": "",
+    "og_desc": "",
+    "focus_keyword": ""
+   },
+   "commercial": {
+    "price_from": "8.5",
+    "price_to": "9",
+    "price_unit": "kg",
+    "price_basis": "Ex-Warehouse",
+    "tiers": "100 kg: $9.00\n300 kg: $8.70\n500 kg: $8.60\n800Kg: $8.50",
+    "in_stock": "Yes",
+    "qty": "1500",
+    "ships_within": "2-3 Business Days",
+    "lot": "2025",
+    "pack_format": "25 kg Kraft Paper Bags",
+    "net_weight": "20",
+    "packs_per_pallet": "40",
+    "pallet_net": "800 Kg",
+    "origin_region": "India",
+    "supplier": "Agronic Food Pvt. Ltd.",
+    "last_audit": "2026"
+   },
+   "tests": [
+    {
+     "param": "Particle size / mesh",
+     "limit": "98% passing -0.300 mm (±5%)",
+     "method": "Through Sieve Analysis",
+     "result": "99.6%"
+    },
+    {
+     "param": "Loss on drying (moisture)",
+     "limit": "Max. 10%",
+     "method": "IS : 1797",
+     "result": "5.9%"
+    },
+    {
+     "param": "Total ash",
+     "limit": "Max. 7%",
+     "method": "API (Part-1)",
+     "result": "4.7%"
+    },
+    {
+     "param": "Lead (Pb)",
+     "limit": "Max. 0.5 ppm",
+     "method": "AOAC method 2015.1",
+     "result": "0.2 ppm"
+    },
+    {
+     "param": "Cadmium (Cd)",
+     "limit": "Max. 1 ppm",
+     "method": "AOAC method 2015.1",
+     "result": "BLQ (LOQ 0.05 ppm)"
+    },
+    {
+     "param": "Arsenic (As)",
+     "limit": "Max. 1 ppm",
+     "method": "AOAC method 2015.1",
+     "result": "0.19 ppm"
+    },
+    {
+     "param": "Mercury (Hg)",
+     "limit": "Max. 0.1 ppm",
+     "method": "AOAC method 2015.1",
+     "result": "BLQ (LOQ 0.05 ppm)"
+    },
+    {
+     "param": "Total plate count",
+     "limit": "Max. 10⁵ CFU/g",
+     "method": "ISO 4833-1:2013",
+     "result": "<10 CFU/g"
+    },
+    {
+     "param": "Yeast & mold",
+     "limit": "Max. 10³ CFU/g",
+     "method": "ISO 21527-2:2008",
+     "result": "<10 CFU/g"
+    },
+    {
+     "param": "E. coli",
+     "limit": "Absent",
+     "method": "ISO 16649:2001",
+     "result": "Absent"
+    },
+    {
+     "param": "Salmonella",
+     "limit": "Absent in 25 g",
+     "method": "ISO 6579-1:2017",
+     "result": "Absent"
+    },
+    {
+     "param": "Steam sterilization / kill step",
+     "limit": "Steam sterilised",
+     "method": "",
+     "result": ""
+    },
+    {
+     "param": "Allergen statement",
+     "limit": "Allergen free",
+     "method": "",
+     "result": "Allergen free"
+    },
+    {
+     "param": "Shelf life",
+     "limit": "24 months",
+     "method": "",
+     "result": ""
+    }
+   ]
+  },
+  {
+   "key": "moringa",
+   "slug": "organic-moringa-leaf-powder",
+   "status": "published",
+   "updated": "2026-11-05",
+   "name": "Organic Moringa Leaf Powder",
+   "short": "Moringa Leaf Powder",
+   "common": "moringa",
+   "botanical": "Moringa oleifera",
+   "part": "Leaves",
+   "tag": "Superfood · Leaf",
+   "unit_mode": "kg",
+   "box": "100 kg",
+   "title": "Organic Moringa Leaf Powder in Bulk | Global Palate",
+   "meta": "USDA organic moringa leaf powder (Moringa oleifera) in bulk from our Compton, CA warehouse. Fine green powder for blends and beverages. COA with every batch.",
+   "h1": "Organic moringa leaf powder, milled and ready to ship",
+   "lead": "A vibrant green leaf powder for functional food and beverage manufacturers who need natural color and nutrient density in one ingredient.",
+   "card": "Fine-milled leaf powder for green blends, smoothie bases and functional foods.",
+   "desc": [
+    "Our organic moringa powder is milled from the leaves of Moringa oleifera and keeps a vibrant green color. It is a common base for greens blends, smoothies, wellness beverages and nutrient-dense snacks.",
+    "Each batch is tested and documented, and ships from stock in Compton, California."
+   ],
+   "specs": [
+    [
+     "Botanical name",
+     "Moringa oleifera"
+    ],
+    [
+     "Plant part",
+     "Leaves"
+    ],
+    [
+     "Country of origin",
+     "India"
+    ],
+    [
+     "Shelf life",
+     "24 months"
+    ],
+    [
+     "Storage",
+     "Cool, dry place away from direct sunlight"
+    ]
+   ],
+   "purity": [
+    "Free from adulteration and additives",
+    "Non-GMO verified",
+    "Free from irradiation",
+    "No artificial colors or preservatives"
+   ],
+   "ttk_sub": "A green leaf powder with natural color and a clean flavor.",
+   "ttk": [
+    [
+     "USDA Certified Organic",
+     "Grown and processed to organic standards."
+    ],
+    [
+     "Non-GMO",
+     "Verified non-GMO ingredient."
+    ],
+    [
+     "Natural green color",
+     "Consistent, vibrant hue."
+    ],
+    [
+     "Gluten free",
+     "Tested batch by batch."
+    ],
+    [
+     "Fine leaf powder",
+     "Blends smoothly into liquids and mixes."
+    ],
+    [
+     "Beverage ready",
+     "Smoothies, juices and greens blends."
+    ]
+   ],
+   "faq": [
+    [
+     "What is moringa powder used for?",
+     "It is used in greens blends, smoothie bases, wellness beverages, snacks and nutrient-dense food formulations."
+    ]
+   ],
+   "plant": "leaves of the Moringa oleifera tree",
+   "look": "a fine green powder",
+   "alt": "Ceramic bowl of organic moringa leaf powder",
+   "image": {
+    "src": "static"
+   },
+   "seo": {
+    "canonical": "",
+    "noindex": false,
+    "og_title": "",
+    "og_desc": "",
+    "focus_keyword": ""
+   },
+   "commercial": {
+    "price_from": "7.4",
+    "price_to": "7.8",
+    "price_unit": "kg",
+    "price_basis": "Ex-Warehouse",
+    "tiers": "100 kg: $7.80\n300 kg: $7.60\n500 kg: $7.50\n800Kg: $7.40",
+    "in_stock": "Yes",
+    "qty": "1320",
+    "ships_within": "2-3 Business Days",
+    "lot": "2025",
+    "pack_format": "25 kg Kraft Paper Bags",
+    "net_weight": "20",
+    "packs_per_pallet": "40",
+    "pallet_net": "800 Kg",
+    "origin_region": "India",
+    "supplier": "Agronic Food Pvt. Ltd.",
+    "last_audit": "2026"
+   },
+   "tests": [
+    {
+     "param": "Particle size / mesh",
+     "limit": "98% passing -0.300 mm (±5%)",
+     "method": "Through Sieve Analysis",
+     "result": "98.5%"
+    },
+    {
+     "param": "Loss on drying (moisture)",
+     "limit": "Max. 10%",
+     "method": "IS : 1797",
+     "result": "3%"
+    },
+    {
+     "param": "Total ash",
+     "limit": "Max. 10%",
+     "method": "API (Part-1)",
+     "result": "12%"
+    },
+    {
+     "param": "Lead (Pb)",
+     "limit": "Max. 0.5 ppm",
+     "method": "AOAC method 2015.1",
+     "result": "0.3 ppm"
+    },
+    {
+     "param": "Cadmium (Cd)",
+     "limit": "Max. 1 ppm",
+     "method": "AOAC method 2015.1",
+     "result": "BLQ (LOQ 0.05 ppm)"
+    },
+    {
+     "param": "Arsenic (As)",
+     "limit": "Max. 1 ppm",
+     "method": "AOAC method 2015.1",
+     "result": "BLQ (LOQ 0.05 ppm)"
+    },
+    {
+     "param": "Mercury (Hg)",
+     "limit": "Max. 0.1 ppm",
+     "method": "AOAC method 2015.1",
+     "result": "BLQ (LOQ 0.05 ppm)"
+    },
+    {
+     "param": "Total plate count",
+     "limit": "Max. 10⁵ CFU/g",
+     "method": "ISO 4833-1:2013",
+     "result": "<10 CFU/g"
+    },
+    {
+     "param": "Yeast & mold",
+     "limit": "Max. 10³ CFU/g",
+     "method": "ISO 21527-2:2008",
+     "result": "<10 CFU/g"
+    },
+    {
+     "param": "E. coli",
+     "limit": "Absent",
+     "method": "ISO 16649:2001",
+     "result": "Absent"
+    },
+    {
+     "param": "Salmonella",
+     "limit": "Absent in 25 g",
+     "method": "ISO 6579-1:2017",
+     "result": "Absent"
+    },
+    {
+     "param": "Steam sterilization / kill step",
+     "limit": "Steam sterilised",
+     "method": "",
+     "result": ""
+    },
+    {
+     "param": "Allergen statement",
+     "limit": "Allergen free",
+     "method": "",
+     "result": "Allergen free"
+    },
+    {
+     "param": "Shelf life",
+     "limit": "24 months",
+     "method": "",
+     "result": ""
+    }
+   ]
+  },
+  {
+   "key": "ginger",
+   "slug": "organic-ginger-powder",
+   "status": "published",
+   "updated": "2026-11-05",
+   "name": "Organic Ginger Powder",
+   "short": "Ginger Powder",
+   "common": "ginger",
+   "botanical": "Zingiber officinale",
+   "part": "Rhizome",
+   "tag": "Spice · Rhizome",
+   "unit_mode": "kg",
+   "box": "100 kg",
+   "title": "Organic Ginger Powder in Bulk | Global Palate",
+   "meta": "Organic ginger root powder (Zingiber officinale) in bulk from our Compton, CA warehouse. Consistent pungency and color for blends and beverages. COA included.",
+   "h1": "Organic ginger powder with consistent pungency, ready to ship",
+   "lead": "Ginger powder milled from mature rhizomes for consistent pungency and color, for beverage, spice-blend and supplement manufacturers.",
+   "card": "Consistent pungency and color for beverages, spice blends and supplement formats.",
+   "desc": [
+    "Our organic ginger powder is milled from mature Zingiber officinale rhizomes, selected for consistent pungency and color. It is a reliable input for spice blends, beverages, bakery and supplement formulations.",
+    "Each batch is tested and documented, and ships from stock in Compton, California."
+   ],
+   "specs": [
+    [
+     "Botanical name",
+     "Zingiber officinale"
+    ],
+    [
+     "Plant part",
+     "Rhizome"
+    ],
+    [
+     "Country of origin",
+     "India"
+    ],
+    [
+     "Shelf life",
+     "24 months"
+    ],
+    [
+     "Storage",
+     "Cool, dry place; airtight container"
+    ]
+   ],
+   "purity": [
+    "Free from adulteration and additives",
+    "Non-GMO verified",
+    "Free from irradiation",
+    "No artificial flavors or enhancers"
+   ],
+   "ttk_sub": "Bold, pungent ginger with consistent color and heat.",
+   "ttk": [
+    [
+     "USDA Certified Organic",
+     "Grown and processed to organic standards."
+    ],
+    [
+     "Non-GMO",
+     "Verified non-GMO ingredient."
+    ],
+    [
+     "Pungent aroma",
+     "Consistent heat and flavor."
+    ],
+    [
+     "Gluten free",
+     "Tested batch by batch."
+    ],
+    [
+     "Consistent color",
+     "Mature rhizomes for uniform lots."
+    ],
+    [
+     "Blend ready",
+     "Drinks, spice mixes and supplements."
+    ]
+   ],
+   "faq": [
+    [
+     "What is ginger powder used for?",
+     "Beverages, spice blends, baked goods, sauces and supplement formulations."
+    ]
+   ],
+   "plant": "rhizome (root) of the Zingiber officinale plant",
+   "look": "a fine, light-tan powder with a pungent aroma",
+   "alt": "Ceramic bowl of organic ginger powder",
+   "image": {
+    "src": "static"
+   },
+   "seo": {
+    "canonical": "",
+    "noindex": false,
+    "og_title": "",
+    "og_desc": "",
+    "focus_keyword": ""
+   },
+   "commercial": {
+    "price_from": "7.1",
+    "price_to": "7.5",
+    "price_unit": "kg",
+    "price_basis": "Ex-Warehouse",
+    "tiers": "100 kg: $7.50\n300 kg: $7.30\n500 kg: $7.20\n800Kg: $7.10",
+    "in_stock": "Yes",
+    "qty": "380",
+    "ships_within": "2-3 Business Days",
+    "lot": "2025",
+    "pack_format": "25 kg Kraft Paper Bags",
+    "net_weight": "20",
+    "packs_per_pallet": "40",
+    "pallet_net": "800 Kg",
+    "origin_region": "India",
+    "supplier": "Agronic Food Pvt. Ltd.",
+    "last_audit": "2026"
+   },
+   "tests": [
+    {
+     "param": "Particle size / mesh",
+     "limit": "96% passing -0.425 mm (±5%)",
+     "method": "Through Sieve Analysis",
+     "result": "98%"
+    },
+    {
+     "param": "Loss on drying (moisture)",
+     "limit": "Max. 10%",
+     "method": "IS : 1797",
+     "result": "7.4%"
+    },
+    {
+     "param": "Total ash",
+     "limit": "Max. 8%",
+     "method": "API (Part-1)",
+     "result": "7.7%"
+    },
+    {
+     "param": "Lead (Pb)",
+     "limit": "Max. 0.5 ppm",
+     "method": "AOAC method 2015.1",
+     "result": "BLQ (LOQ 0.005 ppm)"
+    },
+    {
+     "param": "Cadmium (Cd)",
+     "limit": "Max. 1 ppm",
+     "method": "AOAC method 2015.1",
+     "result": "BLQ (LOQ 0.005 ppm)"
+    },
+    {
+     "param": "Arsenic (As)",
+     "limit": "Max. 1 ppm",
+     "method": "AOAC method 2015.1",
+     "result": "BLQ (LOQ 0.005 ppm)"
+    },
+    {
+     "param": "Mercury (Hg)",
+     "limit": "Max. 0.1 ppm",
+     "method": "AOAC method 2015.1",
+     "result": "BLQ (LOQ 0.005 ppm)"
+    },
+    {
+     "param": "Total plate count",
+     "limit": "Max. 10⁵ CFU/g",
+     "method": "ISO 4833-1:2013",
+     "result": "<10 CFU/g"
+    },
+    {
+     "param": "Yeast & mold",
+     "limit": "Max. 10³ CFU/g",
+     "method": "ISO 21527-2:2008",
+     "result": "<10 CFU/g"
+    },
+    {
+     "param": "E. coli",
+     "limit": "Absent",
+     "method": "ISO 16649:2001",
+     "result": "Absent"
+    },
+    {
+     "param": "Salmonella",
+     "limit": "Absent in 25 g",
+     "method": "ISO 6579-1:2017",
+     "result": "Absent"
+    },
+    {
+     "param": "Steam sterilization / kill step",
+     "limit": "Steam sterilised",
+     "method": "",
+     "result": ""
+    },
+    {
+     "param": "Allergen statement",
+     "limit": "Allergen free",
+     "method": "",
+     "result": "Allergen free"
+    },
+    {
+     "param": "Shelf life",
+     "limit": "24 months",
+     "method": "",
+     "result": ""
+    }
+   ]
+  },
+  {
+   "key": "tamarind",
+   "slug": "organic-tamarind-paste-pulp",
+   "status": "published",
+   "updated": "2026-11-05",
+   "name": "Organic Tamarind Paste",
+   "short": "Tamarind Paste",
+   "common": "tamarind",
+   "botanical": "Tamarindus indica",
+   "part": "Fruit pulp",
+   "tag": "Fruit · Paste",
+   "unit_mode": "drum",
+   "box": "drum quantities",
+   "title": "Organic Tamarind Paste in Bulk | Global Palate",
+   "meta": "USDA organic seedless tamarind paste (Tamarindus indica) sold by the drum from our Compton, CA warehouse. For sauces and beverage concentrates. COA included.",
+   "h1": "Organic seedless tamarind paste, sold by the drum",
+   "lead": "A concentrated, seedless tamarind pulp with a sweet-sour profile, sold by the drum for sauce, condiment and beverage-concentrate manufacturers.",
+   "card": "Seedless paste sold by the drum, for sauces, condiments and beverage concentrates.",
+   "desc": [
+    "Our organic tamarind paste is processed from Tamarindus indica fruit pulp, with seeds and fibers removed for a smooth, concentrated paste. It is a foundation ingredient for sauces, chutneys, marinades and beverage concentrates.",
+    "Tamarind paste is sold by the drum rather than by the kilo. Each batch is documented and ships from stock in Compton, California."
+   ],
+   "specs": [
+    [
+     "Botanical name",
+     "Tamarindus indica"
+    ],
+    [
+     "Plant part",
+     "Fruit pulp"
+    ],
+    [
+     "Form",
+     "Seedless paste; seeds and fibers removed"
+    ],
+    [
+     "Sold by",
+     "Drum"
+    ],
+    [
+     "Country of origin",
+     "India"
+    ],
+    [
+     "Shelf life",
+     "24 months"
+    ],
+    [
+     "Storage",
+     "Cool, dry place; airtight container"
+    ]
+   ],
+   "purity": [
+    "Free from adulteration and additives",
+    "Non-GMO verified",
+    "Free from irradiation",
+    "No artificial colors, flavors or preservatives",
+    "No added sugars or sweeteners"
+   ],
+   "ttk_sub": "A concentrated, seedless paste with a sweet-sour flavor.",
+   "ttk": [
+    [
+     "USDA Certified Organic",
+     "Grown and processed to organic standards."
+    ],
+    [
+     "Non-GMO",
+     "Verified non-GMO ingredient."
+    ],
+    [
+     "Seedless",
+     "Seeds and fibers removed."
+    ],
+    [
+     "Gluten free",
+     "Tested batch by batch."
+    ],
+    [
+     "Sweet-sour concentrate",
+     "Distinctive, consistent flavor."
+    ],
+    [
+     "Sauce and beverage ready",
+     "Condiments and drink concentrates."
+    ]
+   ],
+   "faq": [
+    [
+     "Is the paste seedless?",
+     "Yes. Seeds and fibers are removed during processing."
+    ]
+   ],
+   "plant": "fruit pulp of the Tamarindus indica tree",
+   "look": "a dark-brown, smooth paste",
+   "alt": "Ceramic bowl of organic tamarind paste",
+   "image": {
+    "src": "static"
+   },
+   "seo": {
+    "canonical": "",
+    "noindex": false,
+    "og_title": "",
+    "og_desc": "",
+    "focus_keyword": ""
+   },
+   "commercial": {
+    "price_from": "6",
+    "price_to": "6.9",
+    "price_unit": "kg",
+    "price_basis": "Ex-Warehouse",
+    "tiers": "720 kg: $6.90",
+    "in_stock": "Yes",
+    "qty": "14760",
+    "ships_within": "2-3 Business Days",
+    "lot": "2026",
+    "pack_format": "60kg Drums",
+    "net_weight": "60",
+    "packs_per_pallet": "12",
+    "pallet_net": "720 Kg",
+    "origin_region": "India",
+    "supplier": "Agronic Food Pvt. Ltd.",
+    "last_audit": "2026"
+   },
+   "tests": []
+  },
+  {
+   "key": "arrowroot",
+   "slug": "organic-arrowroot-powder",
+   "status": "published",
+   "updated": "2026-11-05",
+   "name": "Organic Arrowroot Powder",
+   "short": "Arrowroot Powder",
+   "common": "arrowroot",
+   "botanical": "Maranta arundinacea",
+   "part": "Rhizome",
+   "tag": "Starch · Gluten-free",
+   "unit_mode": "kg",
+   "box": "100 kg",
+   "title": "Organic Arrowroot Powder in Bulk | Global Palate",
+   "meta": "Organic arrowroot starch (Maranta arundinacea) in bulk from our Compton, CA warehouse. A neutral, gluten-free thickener for clean-label foods. COA included.",
+   "h1": "Organic arrowroot powder, a clean-label starch ready to ship",
+   "lead": "A fine, neutral-tasting starch used as a gluten-free thickener and binder, for food manufacturers building clean-label products.",
+   "card": "Neutral-tasting thickener for gluten-free and clean-label food manufacturing.",
+   "desc": [
+    "Our organic arrowroot powder is milled from Maranta arundinacea rhizomes into a fine, neutral-tasting white starch. It is used as a thickener and binder in sauces, soups, bakery and confectionery, including gluten-free and clean-label formulations.",
+    "Each batch is documented and ships from stock in Compton, California."
+   ],
+   "specs": [
+    [
+     "Botanical name",
+     "Maranta arundinacea"
+    ],
+    [
+     "Plant part",
+     "Rhizome"
+    ],
+    [
+     "Country of origin",
+     "India"
+    ],
+    [
+     "Shelf life",
+     "24 months"
+    ],
+    [
+     "Storage",
+     "Cool, dry place; moisture-proof container"
+    ]
+   ],
+   "purity": [
+    "Free from adulteration and additives",
+    "Non-GMO verified",
+    "Free from irradiation",
+    "Gluten free"
+   ],
+   "ttk_sub": "A neutral, fine starch that is gluten free by nature.",
+   "ttk": [
+    [
+     "USDA Certified Organic",
+     "Grown and processed to organic standards."
+    ],
+    [
+     "Non-GMO",
+     "Verified non-GMO ingredient."
+    ],
+    [
+     "Neutral taste and color",
+     "Will not change your flavor profile."
+    ],
+    [
+     "Gluten free",
+     "Tested batch by batch."
+    ],
+    [
+     "Fine clean-label starch",
+     "An alternative to modified starches."
+    ],
+    [
+     "Thickening ready",
+     "Sauces, soups, bakery, confectionery."
+    ]
+   ],
+   "faq": [
+    [
+     "What is arrowroot powder used for?",
+     "Thickening sauces and soups, gluten-free baking, confectionery and clean-label binding."
+    ]
+   ],
+   "plant": "rhizome (root) of the Maranta arundinacea plant",
+   "look": "a fine, white, neutral-tasting powder",
+   "alt": "Ceramic bowl of organic arrowroot powder",
+   "image": {
+    "src": "static"
+   },
+   "seo": {
+    "canonical": "",
+    "noindex": false,
+    "og_title": "",
+    "og_desc": "",
+    "focus_keyword": ""
+   },
+   "commercial": {
+    "price_from": "3.1",
+    "price_to": "5.5",
+    "price_unit": "kg",
+    "price_basis": "Ex-Warehouse",
+    "tiers": "100 kg: $5.50\n300 kg: $4.50\n500 kg: $4.00\n800Kg: $3.51",
+    "in_stock": "Yes",
+    "qty": "5320",
+    "ships_within": "2-3 Business Days",
+    "lot": "2026",
+    "pack_format": "20 kg PP Bags",
+    "net_weight": "20",
+    "packs_per_pallet": "40",
+    "pallet_net": "800 Kg",
+    "origin_region": "India",
+    "supplier": "Agronic Food Pvt. Ltd.",
+    "last_audit": "2026"
+   },
+   "tests": [
+    {
+     "param": "Particle size / mesh",
+     "limit": "98% passing -0.180 mm (±5%)",
+     "method": "Through Sieve Analysis",
+     "result": "99.8%"
+    },
+    {
+     "param": "Loss on drying (moisture)",
+     "limit": "Max. 12%",
+     "method": "IS : 4706-2",
+     "result": "6%"
+    },
+    {
+     "param": "Total ash",
+     "limit": "Max. 0.4%",
+     "method": "API (Part-1)",
+     "result": "0.1%"
+    },
+    {
+     "param": "Lead (Pb)",
+     "limit": "Max. 0.5 ppm",
+     "method": "AOAC method 2015.1",
+     "result": "BLQ (LOQ 0.05 ppm)"
+    },
+    {
+     "param": "Cadmium (Cd)",
+     "limit": "Max. 1 ppm",
+     "method": "AOAC method 2015.1",
+     "result": "BLQ (LOQ 0.01 ppm)"
+    },
+    {
+     "param": "Arsenic (As)",
+     "limit": "Max. 1 ppm",
+     "method": "AOAC method 2015.1",
+     "result": "BLQ (LOQ 0.05 ppm)"
+    },
+    {
+     "param": "Mercury (Hg)",
+     "limit": "Max. 0.1 ppm",
+     "method": "AOAC method 2015.1",
+     "result": "BLQ (LOQ 0.01 ppm)"
+    },
+    {
+     "param": "Total plate count",
+     "limit": "Max. 10⁵ CFU/g",
+     "method": "ISO 4833-1:2013",
+     "result": "2.4 × 10³ CFU/g"
+    },
+    {
+     "param": "Yeast & mold",
+     "limit": "Max. 10³ CFU/g",
+     "method": "ISO 21527-2:2008",
+     "result": "1 × 10² CFU/g"
+    },
+    {
+     "param": "E. coli",
+     "limit": "Absent",
+     "method": "ISO 16649:2001",
+     "result": "Absent"
+    },
+    {
+     "param": "Salmonella",
+     "limit": "Absent in 25 g",
+     "method": "ISO 6579-1:2017",
+     "result": "Absent"
+    },
+    {
+     "param": "Pesticide residue (program and limits)",
+     "limit": "Free from pesticides and chemical residue.",
+     "method": "",
+     "result": ""
+    },
+    {
+     "param": "Allergen statement",
+     "limit": "Allergen free",
+     "method": "",
+     "result": "Allergen free"
+    },
+    {
+     "param": "Shelf life",
+     "limit": "24 months",
+     "method": "",
+     "result": ""
+    }
+   ]
+  }
+ ]
+}

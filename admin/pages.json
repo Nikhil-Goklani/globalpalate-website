@@ -1,0 +1,86 @@
+{
+ "/": {
+  "title": "Organic Ingredients Supplier in the USA | Global Palate",
+  "description": "Certified organic turmeric, ashwagandha, moringa, ginger, tamarind and arrowroot, shipped from U.S. stock. COA with every batch. Request a quote today.",
+  "noindex": false,
+  "kind": "page"
+ },
+ "/industries/": {
+  "title": "Industries We Supply | Global Palate",
+  "description": "Global Palate supplies organic ingredients to dietary supplement, functional food and beverage, herbal formulation and spice manufacturers across North America.",
+  "noindex": false,
+  "kind": "page"
+ },
+ "/industries/nutraceutical-dietary-supplement/": {
+  "title": "Nutraceutical & Dietary Supplement Ingredients | Global Palate",
+  "description": "Organic ashwagandha, turmeric and ginger for supplement manufacturers. Batch COAs, HPLC-verified markers, 100 kg minimums and U.S. stock in Compton, CA.",
+  "noindex": false,
+  "kind": "page"
+ },
+ "/industries/functional-food-beverage/": {
+  "title": "Functional Food & Beverage Ingredients | Global Palate",
+  "description": "Organic turmeric, moringa, ginger and tamarind for food and beverage manufacturers. Consistent color and flavor, batch COAs and 100 kg minimums from U.S. stock.",
+  "noindex": false,
+  "kind": "page"
+ },
+ "/industries/herbal-traditional-formulation/": {
+  "title": "Herbal & Traditional Formulation Ingredients | Global Palate",
+  "description": "Single-botanical organic powders for herbal and traditional formulators: ashwagandha root, turmeric, tamarind. Plant part stated, COA per batch, U.S. stock.",
+  "noindex": false,
+  "kind": "page"
+ },
+ "/industries/spice-seasoning/": {
+  "title": "Spice & Seasoning Ingredients | Global Palate",
+  "description": "Bulk organic turmeric, ginger and tamarind for spice blenders and packers. 100 kg minimums to test a blend, batch COAs and stock in Compton, CA.",
+  "noindex": false,
+  "kind": "page"
+ },
+ "/ordering/": {
+  "title": "Ordering, Terms & Credit | Global Palate",
+  "description": "Global Palate ordering terms: minimums, pack formats, payment terms, credit applications, freight transit, returns and recall policy for organic ingredients.",
+  "noindex": false,
+  "kind": "page"
+ },
+ "/about/": {
+  "title": "About Global Palate | Organic Ingredient Supplier",
+  "description": "Global Palate is a U.S.-based B2B supplier of certified organic ingredients, stocked in Compton, CA for manufacturers in the United States and Canada.",
+  "noindex": false,
+  "kind": "page"
+ },
+ "/contact/": {
+  "title": "Contact Global Palate | Request a Quote or Sample",
+  "description": "Contact Global Palate for organic ingredient pricing, samples and documentation. Call, email or send a request and our sales team will reply.",
+  "noindex": false,
+  "kind": "page"
+ },
+ "/quality/": {
+  "title": "Quality & Documentation | Global Palate",
+  "description": "Batch Certificates of Analysis, heavy-metal, microbiological and pesticide-residue testing, and certificates for each Global Palate ingredient. Get the packet.",
+  "noindex": false,
+  "kind": "page"
+ },
+ "/supply-chain/": {
+  "title": "Supply Chain & Delivery | Global Palate",
+  "description": "Global Palate stocks organic ingredients in Compton, CA and ships by LTL or truckload across the U.S. and Canada, with an East Coast office in Edison, NJ.",
+  "noindex": false,
+  "kind": "page"
+ },
+ "/privacy/": {
+  "title": "Privacy Policy | Global Palate",
+  "description": "Privacy policy for globalpalate.co: what information we collect through our forms, how we use it, and your choices, including California privacy rights.",
+  "noindex": false,
+  "kind": "page"
+ },
+ "/terms/": {
+  "title": "Terms & Conditions | Global Palate",
+  "description": "Terms and conditions for using globalpalate.co, including how we treat product information, quotes, batch documentation and limits on liability for buyers.",
+  "noindex": false,
+  "kind": "page"
+ },
+ "/cookie-policy/": {
+  "title": "Cookie Policy | Global Palate",
+  "description": "Cookie policy for globalpalate.co: how we use essential and analytics cookies, when analytics loads, and how you can accept or decline them in the banner.",
+  "noindex": false,
+  "kind": "page"
+ }
+}
