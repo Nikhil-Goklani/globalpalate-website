@@ -7,3 +7,4 @@ Static site (Python build) + Cloudflare Pages Functions (forms, admin API). Star
 - `functions/` Cloudflare Pages Functions: `api/lead.js` (forms), `api/admin/` (admin API), `api/export.js`, `api/img/`.
 - `data/documents/` PDFs (sample COAs, spec sheets, testing reports) named like `turmeric-sample-coa.pdf`, `turmeric-spec-sheet.pdf`, `turmeric-testing-report.pdf`. They are published on each product page; you can also commit new ones via GitHub.
 - `docs/legacy-import-workbook.xlsx` the workbook used to create the first seed.
+
