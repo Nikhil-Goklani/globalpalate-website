@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Admin | Global Palate</title>
+<link rel="icon" type="image/png" href="../favicon-32.png">
+<link rel="stylesheet" href="admin.css">
+</head>
+<body>
+<div id="login" class="login" hidden>
+  <form id="loginForm" class="card login-card" autocomplete="on">
+    <img src="../images/logo.webp" width="180" height="76" alt="Global Palate">
+    <h1>Admin sign in</h1>
+    <label for="pw">Password</label>
+    <input id="pw" type="password" autocomplete="current-password" required>
+    <p id="loginErr" class="err" role="alert" hidden></p>
+    <button class="btn primary" type="submit">Sign in</button>
+  </form>
+</div>
+<div id="app" hidden>
+  <header class="top">
+    <img src="../images/logo.webp" width="120" height="50" alt="Global Palate">
+    <span class="tag">Admin</span>
+    <span id="status" class="chip" role="status"></span>
+    <span class="grow"></span>
+    <a class="btn ghost" href="../" target="_blank" rel="noopener">View site</a>
+    <button class="btn" id="saveBtn" type="button">Save draft</button>
+    <button class="btn primary" id="publishBtn" type="button">Publish</button>
+    <button class="btn ghost" id="logoutBtn" type="button">Sign out</button>
+  </header>
+  <div class="shell">
+    <nav class="side" aria-label="Admin sections" id="nav"></nav>
+    <main id="main" tabindex="-1"></main>
+  </div>
+</div>
+<div id="modal" class="modal" hidden><div class="modal-box card" role="dialog" aria-modal="true" aria-labelledby="mt"><h2 id="mt"></h2><div id="mb"></div><div class="acts" id="ma"></div></div></div>
+<div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+<script src="admin.js"></script>
+</body>
+</html>
